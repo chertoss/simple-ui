@@ -19,11 +19,12 @@
     "build-storybook": "build-storybook"
   },
   "author": "Ivanov A. Sergey",
-  "license": "ISC",
+  "license": "MIT",
   "files": [
     "dist"
   ],
   "typings": "dist/index",
+  "private": false,
   "peerDependencies": {
     "react": "ˆ16.10.0",
     "react-dom": "ˆ16.10.0"
