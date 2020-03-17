@@ -10,4 +10,4 @@ npm i -s git+https://github.com/chertoss/simple-ui.git
 
 ## License
 
-MIT © [chertos](https://github.com/chertoss)
+MIT © [chertoss](https://github.com/chertoss)
