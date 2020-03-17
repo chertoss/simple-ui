@@ -1,6 +1,6 @@
 {
-  "name": "simple-ui",
-  "version": "1.0.0",
+  "name": "chertoss-simple-ui-example",
+  "version": "1.0.1",
   "description": "UI library for cpr",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -27,7 +27,8 @@
   "private": false,
   "peerDependencies": {
     "react": "ˆ16.10.0",
-    "react-dom": "ˆ16.10.0"
+    "react-dom": "ˆ16.10.0",
+    "styled-components": "^5.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
