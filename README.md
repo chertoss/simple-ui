@@ -1,4 +1,4 @@
-# react-library-example
+# simple-ui
 
 > Simple example of react library with typescript, rollup, jest, storybook, eslint and prettier
 
