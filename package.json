@@ -5,6 +5,9 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
+  "repository": {
+    "url": "https://github.com/chertoss/simple-ui.git"
+  },
   "scripts": {
     "lint": "eslint src/**/* --ext .ts,.tsx --fix",
     "test": "npm run lint && jest",
